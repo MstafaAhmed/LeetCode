@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MstafaAhmed/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/MstafaAhmed/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MstafaAhmed/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MstafaAhmed/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MstafaAhmed/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
