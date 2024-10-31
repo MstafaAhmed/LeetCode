@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MstafaAhmed/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MstafaAhmed/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MstafaAhmed/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
