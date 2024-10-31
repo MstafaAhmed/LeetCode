@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
+| [1287-distance-between-bus-stops](https://github.com/MstafaAhmed/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/MstafaAhmed/LeetCode/tree/master/1656-count-good-triplets) |
