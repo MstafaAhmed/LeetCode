@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/MstafaAhmed/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MstafaAhmed/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MstafaAhmed/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
