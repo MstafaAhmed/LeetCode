@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/MstafaAhmed/LeetCode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2714-left-and-right-sum-differences](https://github.com/MstafaAhmed/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MstafaAhmed/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/MstafaAhmed/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
