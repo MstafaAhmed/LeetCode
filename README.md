@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/MstafaAhmed/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1734-bank-account-summary-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/MstafaAhmed/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/MstafaAhmed/LeetCode/tree/master/2024-calculate-special-bonus) |
