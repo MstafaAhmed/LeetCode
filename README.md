@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/MstafaAhmed/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/MstafaAhmed/LeetCode/tree/master/1289-day-of-the-week) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/MstafaAhmed/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
