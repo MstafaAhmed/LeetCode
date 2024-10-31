@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/MstafaAhmed/LeetCode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MstafaAhmed/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1651-shuffle-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
