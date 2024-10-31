@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/MstafaAhmed/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/MstafaAhmed/LeetCode/tree/master/2024-calculate-special-bonus) |
 ## Math
 |  |
