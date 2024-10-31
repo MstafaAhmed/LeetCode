@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MstafaAhmed/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MstafaAhmed/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/MstafaAhmed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Prefix Sum
