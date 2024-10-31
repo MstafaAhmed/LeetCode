@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MstafaAhmed/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/MstafaAhmed/LeetCode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MstafaAhmed/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0414-third-maximum-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/MstafaAhmed/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MstafaAhmed/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MstafaAhmed/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Number Theory
