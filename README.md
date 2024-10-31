@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/MstafaAhmed/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1338-queries-quality-and-percentage](https://github.com/MstafaAhmed/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1734-bank-account-summary-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/1734-bank-account-summary-ii) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/MstafaAhmed/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/MstafaAhmed/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/MstafaAhmed/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/MstafaAhmed/LeetCode/tree/master/2041-the-latest-login-in-2020) |
