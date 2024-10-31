@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MstafaAhmed/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
