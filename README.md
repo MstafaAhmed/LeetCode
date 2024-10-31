@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/MstafaAhmed/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MstafaAhmed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/MstafaAhmed/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
