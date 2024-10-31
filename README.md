@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MstafaAhmed/LeetCode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [2024-calculate-special-bonus](https://github.com/MstafaAhmed/LeetCode/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
