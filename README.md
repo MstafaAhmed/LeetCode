@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MstafaAhmed/LeetCode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/MstafaAhmed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MstafaAhmed/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
