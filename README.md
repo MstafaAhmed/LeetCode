@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Number Theory
