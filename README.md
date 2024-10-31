@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
