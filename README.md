@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
 ## Counting
 |  |
 | ------- |
