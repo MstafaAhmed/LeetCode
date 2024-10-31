@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/MstafaAhmed/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
