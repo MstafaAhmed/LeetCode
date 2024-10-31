@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MstafaAhmed/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MstafaAhmed/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1811-fix-names-in-a-table](https://github.com/MstafaAhmed/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/MstafaAhmed/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/MstafaAhmed/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/MstafaAhmed/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
