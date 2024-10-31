@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/MstafaAhmed/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MstafaAhmed/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
 |  |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
