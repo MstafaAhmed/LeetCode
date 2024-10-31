@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MstafaAhmed/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/MstafaAhmed/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/MstafaAhmed/LeetCode/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/MstafaAhmed/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/MstafaAhmed/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -245,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MstafaAhmed/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MstafaAhmed/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Backtracking
