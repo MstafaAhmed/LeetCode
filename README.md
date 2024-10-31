@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/MstafaAhmed/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MstafaAhmed/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MstafaAhmed/LeetCode/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/MstafaAhmed/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
