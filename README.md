@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/MstafaAhmed/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MstafaAhmed/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/MstafaAhmed/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MstafaAhmed/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MstafaAhmed/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MstafaAhmed/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MstafaAhmed/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MstafaAhmed/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MstafaAhmed/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MstafaAhmed/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/MstafaAhmed/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Matrix
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MstafaAhmed/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/MstafaAhmed/LeetCode/tree/master/1656-count-good-triplets) |
 ## Simulation
 |  |
