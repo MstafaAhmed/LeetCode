@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/MstafaAhmed/LeetCode/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/MstafaAhmed/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/MstafaAhmed/LeetCode/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/MstafaAhmed/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MstafaAhmed/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MstafaAhmed/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MstafaAhmed/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
