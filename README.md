@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/MstafaAhmed/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MstafaAhmed/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/MstafaAhmed/LeetCode/tree/master/3371-harshad-number) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/MstafaAhmed/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MstafaAhmed/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/MstafaAhmed/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MstafaAhmed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MstafaAhmed/LeetCode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/MstafaAhmed/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
 |  |
 | ------- |
