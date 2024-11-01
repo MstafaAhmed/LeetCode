@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/MstafaAhmed/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/MstafaAhmed/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0504-base-7](https://github.com/MstafaAhmed/LeetCode/tree/master/0504-base-7) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/MstafaAhmed/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/MstafaAhmed/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MstafaAhmed/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MstafaAhmed/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
