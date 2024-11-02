@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MstafaAhmed/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/MstafaAhmed/LeetCode/tree/master/1289-day-of-the-week) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/MstafaAhmed/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MstafaAhmed/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/MstafaAhmed/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/MstafaAhmed/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/MstafaAhmed/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Matrix
 |  |
