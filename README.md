@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1289-day-of-the-week](https://github.com/MstafaAhmed/LeetCode/tree/master/1289-day-of-the-week) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MstafaAhmed/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
