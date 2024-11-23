@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MstafaAhmed/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MstafaAhmed/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1839-decode-xored-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MstafaAhmed/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/MstafaAhmed/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MstafaAhmed/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/MstafaAhmed/LeetCode/tree/master/0389-find-the-difference) |
+| [1839-decode-xored-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1839-decode-xored-array) |
 ## Dynamic Programming
 |  |
 | ------- |
