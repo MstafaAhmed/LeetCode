@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/MstafaAhmed/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/MstafaAhmed/LeetCode/tree/master/0682-baseball-game) |
+| [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MstafaAhmed/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3379-score-of-a-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Number Theory
 |  |
