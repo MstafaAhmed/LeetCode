@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MstafaAhmed/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/MstafaAhmed/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/MstafaAhmed/LeetCode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/MstafaAhmed/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1651-shuffle-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/MstafaAhmed/LeetCode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
