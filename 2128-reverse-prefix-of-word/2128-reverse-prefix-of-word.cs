@@ -5,23 +5,14 @@ public class Solution {
         while(x>0)
         {
             if(word[index]==ch)
-            {
-                x=-1;
-            }else
-            {
-                index++;
-            }
-            if(index==word.Length)
-            {
-                x=-2;
-            }
-        }
+            { x=-1; }
+            else { index++; }
 
-       
+            if(index==word.Length)
+            {  x=-2; }
+        }     
        if(x==-2)
-       {
-        return word;
-       }
+       { return word; }
        else
        {
         string ans="";
