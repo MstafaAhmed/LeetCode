@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/MstafaAhmed/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1241-decompress-run-length-encoded-list](https://github.com/MstafaAhmed/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1287-distance-between-bus-stops](https://github.com/MstafaAhmed/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/MstafaAhmed/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
