@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MstafaAhmed/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2892-check-if-array-is-good](https://github.com/MstafaAhmed/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/MstafaAhmed/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/MstafaAhmed/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2892-check-if-array-is-good](https://github.com/MstafaAhmed/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/MstafaAhmed/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MstafaAhmed/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MstafaAhmed/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
