@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MstafaAhmed/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MstafaAhmed/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3636-check-balanced-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
