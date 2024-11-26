@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/MstafaAhmed/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MstafaAhmed/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MstafaAhmed/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/MstafaAhmed/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/MstafaAhmed/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/MstafaAhmed/LeetCode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1448-maximum-69-number](https://github.com/MstafaAhmed/LeetCode/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MstafaAhmed/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Backtracking
