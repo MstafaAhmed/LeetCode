@@ -377,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MstafaAhmed/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
