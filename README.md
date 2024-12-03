@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/MstafaAhmed/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MstafaAhmed/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MstafaAhmed/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3379-score-of-a-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/MstafaAhmed/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Number Theory
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MstafaAhmed/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/MstafaAhmed/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
