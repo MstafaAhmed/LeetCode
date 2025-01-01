@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/MstafaAhmed/LeetCode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/MstafaAhmed/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MstafaAhmed/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/MstafaAhmed/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/MstafaAhmed/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
