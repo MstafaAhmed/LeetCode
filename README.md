@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/MstafaAhmed/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MstafaAhmed/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1839-decode-xored-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/MstafaAhmed/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MstafaAhmed/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MstafaAhmed/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
