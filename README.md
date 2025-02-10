@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/MstafaAhmed/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MstafaAhmed/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MstafaAhmed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
