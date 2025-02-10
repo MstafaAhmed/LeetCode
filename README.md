@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/MstafaAhmed/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3429-special-array-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/MstafaAhmed/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MstafaAhmed/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
