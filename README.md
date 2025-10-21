@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/MstafaAhmed/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MstafaAhmed/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MstafaAhmed/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MstafaAhmed/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MstafaAhmed/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MstafaAhmed/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/MstafaAhmed/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/MstafaAhmed/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/MstafaAhmed/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MstafaAhmed/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Recursion
 |  |
 | ------- |
