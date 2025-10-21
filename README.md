@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/MstafaAhmed/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MstafaAhmed/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2892-check-if-array-is-good](https://github.com/MstafaAhmed/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3194-find-words-containing-character](https://github.com/MstafaAhmed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MstafaAhmed/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/MstafaAhmed/LeetCode/tree/master/3226-minimum-number-game) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MstafaAhmed/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/MstafaAhmed/LeetCode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/2580-circular-sentence) |
+| [3194-find-words-containing-character](https://github.com/MstafaAhmed/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MstafaAhmed/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MstafaAhmed/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
