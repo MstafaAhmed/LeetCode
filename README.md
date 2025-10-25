@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MstafaAhmed/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/MstafaAhmed/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/MstafaAhmed/LeetCode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/MstafaAhmed/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/MstafaAhmed/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MstafaAhmed/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MstafaAhmed/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MstafaAhmed/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MstafaAhmed/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/MstafaAhmed/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MstafaAhmed/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/MstafaAhmed/LeetCode/tree/master/0742-to-lower-case) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MstafaAhmed/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MstafaAhmed/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/MstafaAhmed/LeetCode/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/MstafaAhmed/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/MstafaAhmed/LeetCode/tree/master/2048-build-array-from-permutation) |
