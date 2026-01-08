@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/MstafaAhmed/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/MstafaAhmed/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/MstafaAhmed/LeetCode/tree/master/3636-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/MstafaAhmed/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/MstafaAhmed/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/MstafaAhmed/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Number Theory
 |  |
 | ------- |
