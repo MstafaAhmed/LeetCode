@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/MstafaAhmed/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2122-count-special-quadruplets](https://github.com/MstafaAhmed/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/MstafaAhmed/LeetCode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MstafaAhmed/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/MstafaAhmed/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/MstafaAhmed/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/MstafaAhmed/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MstafaAhmed/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/MstafaAhmed/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
